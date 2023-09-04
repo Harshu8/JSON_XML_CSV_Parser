@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Harsh",
+        "age":20,
+        "city":"Agra"
+    },
+    {
+        "name":"Abhishek verma",
+        "age":22,
+        "city":"Mathura"
+    },
+    {
+        "name":"Sachin",
+        "age":20,
+        "city":"Tundla"
+    }
+]
